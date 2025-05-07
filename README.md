@@ -1,5 +1,4 @@
-# UHI_Final_Project
-
+# UHI_LiDAR_Analysis
 Repository for Urban Heat Island (UHI) Analysis using LiDAR and R.
 
 # ️ Urban Heat Island (UHI) Analysis Using LiDAR
